@@ -25,7 +25,9 @@ SECRET_KEY = '%)1d0j62j1=t0&puv-96!4ruhj2=mwa16%s#$$+$ui2jc3tjm^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'http://lilipryst.pythonanywhere.com/',
+]
 
 
 # Application definition
